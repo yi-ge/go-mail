@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/wneessen/go-mail/smtp"
+	"github.com/yi-ge/go-mail/smtp"
 )
 
 func Example() {

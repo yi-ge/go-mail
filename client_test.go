@@ -16,8 +16,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wneessen/go-mail/log"
-	"github.com/wneessen/go-mail/smtp"
+	"github.com/yi-ge/go-mail/log"
+	"github.com/yi-ge/go-mail/smtp"
 )
 
 // DefaultHost is used as default hostname for the Client

@@ -29,7 +29,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wneessen/go-mail/log"
+	"github.com/yi-ge/go-mail/log"
 )
 
 type authTest struct {
