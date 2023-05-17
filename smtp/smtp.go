@@ -31,7 +31,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/wneessen/go-mail/log"
+	"github.com/yi-ge/go-mail/log"
 )
 
 // A Client represents a client connection to an SMTP server.
